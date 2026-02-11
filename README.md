@@ -2,7 +2,7 @@
 
 Website katalog alat musik modern yang responsif dan elegan. Dibangun menggunakan teknologi web terbaru untuk performa tinggi dan tampilan visual yang menarik.
 
-(https://hanzworld-music-store-aatstt497-hanzw02s-projects.vercel.app/)
+(https://hanzworld-music-store.vercel.app/)
 
 ## 🚀 Teknologi yang Digunakan
 
