@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎸 HanZWorld Music Store
 
-## Getting Started
+Website katalog alat musik modern yang responsif dan elegan. Dibangun menggunakan teknologi web terbaru untuk performa tinggi dan tampilan visual yang menarik.
 
-First, run the development server:
+![Project Preview](https://hanzworld-music-store-aatstt497-hanzw02s-projects.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Teknologi yang Digunakan
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
+- **Bahasa:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
+- **UI Components:** [DaisyUI](https://daisyui.com/)
+- **Font:** Google Fonts (Oswald & Inter)
+- **Database:** *Static Data (No SQL/NoSQL required)*
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Fitur Utama
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Desain Premium:** Menggunakan tema "Luxury" (Hitam/Emas) untuk nuansa toko musik profesional.
+- **Responsive Layout:** Tampilan rapi di Desktop, Tablet, dan Mobile.
+- **Katalog Produk:** Grid sistem untuk menampilkan daftar alat musik.
+- **Detail Produk:** Halaman dinamis untuk setiap instrumen (menggunakan Dynamic Routing).
+- **Fast Loading:** Dioptimalkan dengan Server Components Next.js.
 
-## Learn More
+## 🛠️ Cara Menjalankan Project (Installation)
 
-To learn more about Next.js, take a look at the following resources:
+Ikuti langkah ini untuk menjalankan project di komputer lokal kamu:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1.  **Clone Repository** (atau download folder project):
+    ```bash
+    git clone [https://github.com/HanZW02/hanzworld-music-store](https://github.com/HanZW02/hanzworld-music-store)
+    cd hanzworld-music-store
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2.  **Install Dependencies:**
+    Pastikan Node.js sudah terinstall, lalu jalankan:
+    ```bash
+    npm install
+    ```
 
-## Deploy on Vercel
+3.  **Jalankan Server Development:**
+    ```bash
+    npm run dev
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4.  **Buka di Browser:**
+    Kunjungi [http://localhost:3000](http://localhost:3000) untuk melihat hasilnya.
